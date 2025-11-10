@@ -16,8 +16,6 @@
 
 🌐 Frontend & Backend URLs
 
-📸 Screenshots
-
 📜 License
 
 🚀 Features
